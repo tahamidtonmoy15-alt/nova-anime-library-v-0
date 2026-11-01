@@ -1,0 +1,1 @@
+NOVA Android wrapper project generated from the supplied NOVA v13 web app. Review and test on a physical Android device before distribution.
